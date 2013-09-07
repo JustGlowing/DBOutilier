@@ -1,0 +1,50 @@
+@relation weka.datagenerators.classifiers.classification.RandomRBF-S_1_-n_100_-a_5_-c_2_-C_1-weka.filters.unsupervised.attribute.Normalize-S1.0-T0.0-weka.filters.SubspaceDiscoveryGA-weka.filters.DB_Outliers4Examples
+
+@attribute a0 numeric
+@attribute a1 numeric
+@attribute isuserexample {normal,example}
+@attribute outlierness numeric
+
+@data
+0.856124,0.168129,example,0
+0,0.513686,example,1
+0.11347,0.158852,example,0
+1,0.433685,example,1
+0.725234,0.696863,example,1
+0.644054,0.755105,example,1
+0.453951,0.918642,example,2
+0.560722,1,example,2
+0.462829,0.805385,example,1
+0.378185,0.822249,example,1
+0.856124,0.257066,normal,0
+0.027956,0.624857,normal,1
+0.141426,0.147735,normal,0
+0.916132,0.400334,normal,1
+0.67864,0.641278,normal,1
+0.625417,0.643934,normal,1
+0.509863,0.922722,normal,2
+0.597996,1,normal,2
+0.500103,0.583043,normal,0
+0.452735,0.811132,normal,1
+0.661871,0.068349,normal,0
+0.663623,0.445768,normal,0
+0.324349,0.00566,normal,0
+0,0.513686,example,1
+1,0.433685,example,1
+0.725234,0.696863,example,1
+0.644054,0.755105,example,1
+0.453951,0.918642,example,2
+0.560722,1,example,2
+0.462829,0.805385,example,1
+0.378185,0.822249,example,1
+0.027956,0.624857,normal,1
+0.916132,0.400334,normal,1
+0.67864,0.641278,normal,1
+0.625417,0.643934,normal,1
+0.509863,0.922722,normal,2
+0.597996,1,normal,2
+0.452735,0.811132,normal,1
+0.453951,0.918642,example,2
+0.560722,1,example,2
+0.509863,0.922722,normal,2
+0.597996,1,normal,2
