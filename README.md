@@ -3,7 +3,7 @@ DBOutilier
 
 Outilier detection based on Genetic Algorithms.
 
-This project depends to the Weka library. It can be used in a stand-alone mode or from the Weka interface as a plugin.
+This project depends on the Weka library. It can be used in stand-alone mode or from the Weka interface as plugin.
 
 (Developed in 2010)
 
